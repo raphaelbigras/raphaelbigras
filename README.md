@@ -1,4 +1,4 @@
-# Raphael Bigras  
+# Raphaël Bigras  
 
 **Contact:**  
 - Email: raphbigras@outlook.com
