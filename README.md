@@ -5,3 +5,5 @@
 - Twitter/X: [@raphaelbigras](https://x.com/raphaelbigras)  
 
 ---
+## 📊 Languages
+![Languages](https://raw.githubusercontent.com/raphaelbigras/raphaelbigras/main/metrics.svg)
