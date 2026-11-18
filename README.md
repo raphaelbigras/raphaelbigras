@@ -11,6 +11,6 @@ Software engineering student at ÉTS (Montréal) · DevOps, automation and infra
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-![Languages](https://raw.githubusercontent.com/raphaelbigras/raphaelbigras/main/metrics.svg)
+![Languages](metrics.svg)
 
 📧 [raphbigras@outlook.com](mailto:raphbigras@outlook.com) · 𝕏 [@raphaelbigras](https://x.com/raphaelbigras)
